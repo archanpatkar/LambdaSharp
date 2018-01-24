@@ -1,2 +1,4 @@
 # LambdaSharp / L#
-### A Language for Lambda Calculus written in F# which transpiles to F#
+### A Language for λ Lambda Calculus written in F#
+
+### Which transpiles to F# !
