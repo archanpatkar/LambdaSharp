@@ -1,7 +1,15 @@
-# L# (LambdaSharp)
-### A Language for λ Lambda Calculus written in F#
+# L# (λSharp/LambdaSharp)
+### A Language inspired from λ Lambda Calculus written in F#
 
 ### Which transpiles to F# !
+
+
+## Introduction
+
+### λSharp provides Pure Functional Programming paradigm 
+### It provides `Function Abstractions` from `λ Lambda Calculus` which is `Universal Model Of Computation`
+### It is a `Turing Complete Language`
+
 
 ## Demo
 
