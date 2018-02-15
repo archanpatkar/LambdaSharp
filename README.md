@@ -7,8 +7,8 @@
 ## Introduction
 
 ### λSharp provides Pure Functional Programming paradigm 
-### It provides `Function Abstractions` from `λ Lambda Calculus` which is `Universal Model Of Computation`
-### It is a `Turing Complete Language`
+#### It provides `Function Abstractions` from `λ Lambda Calculus` which is `Universal Model Of Computation`
+#### It is a `Turing Complete Language`
 
 
 ## Demo
