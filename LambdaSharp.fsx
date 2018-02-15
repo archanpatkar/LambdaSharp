@@ -49,7 +49,7 @@ module LambdaSharp
         string |> tokens |> transpile
 
     let transpileFromFile ls target =
-        let tols = File.ReadAllText("./" + ls) |> leval;
+        let tols = File.ReadAllText(ls) |> leval;
         let stream = new FileStream(target, FileMode.Create)
         let writer = new StreamWriter(stream)
         writer.AutoFlush <- true
