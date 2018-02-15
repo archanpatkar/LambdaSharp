@@ -6,7 +6,7 @@
 
 ## Introduction
 
-### L# / λSharp provides Pure Functional Programming paradigm 
+### L#  /  λSharp provides Pure Functional Programming paradigm 
 
 ### It provides `Function Abstractions` from `λ Lambda Calculus`
 
