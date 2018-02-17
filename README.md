@@ -15,7 +15,7 @@
 
 ## Demo
 
-#### `LambdaSharp Code`
+#### `L# Code`
 ```
 ( ^b. ( b( ^x. ^y. x ) ) ( ^x. ^y. y ) ) ( ^x. ^y. x )
 ```
