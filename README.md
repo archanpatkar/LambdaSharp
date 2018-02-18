@@ -13,19 +13,19 @@
 ### It is a `Turing Complete Language`
 
 
-## Demo
+## Example
 
-### `L# Code`
+#### `L# Code`
 ```
 ( ^b. ( b( ^x. ^y. x ) ) ( ^x. ^y. y ) ) ( ^x. ^y. x )
 ```
        
-### `Transpiled to F#`
+#### `Transpiled to F#`
 ```f#
 ( fun b-> ( b( fun x-> fun y-> x ) ) ( fun x-> fun y-> y ) ) ( fun x-> fun y-> x )
 ```
 
-### `Bundler Code`
+#### `Bundler Code`
 ```f#
 #load "../LambdaSharp.fsx"
 open LambdaSharp      
