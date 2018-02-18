@@ -6,7 +6,7 @@
 
 ## Introduction
 
-### L# provides Pure Functional Programming paradigm 
+#### L# provides Pure Functional Programming paradigm 
 
 #### It provides `Function Abstractions` from `λ Lambda Calculus`
 
