@@ -27,7 +27,7 @@ module LambdaSharp
 
     let tokens string =
         let mutable tokens =  new List<tokens * char>()
-        let mutable token:tokens * char = (NULL,' ')
+        let mutable token:tokens * char <- (NULL,' ')
         for c in string do 
            tokens.Add(c |> tokenizer)
         tokens
