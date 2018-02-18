@@ -25,6 +25,13 @@
 ( fun b-> ( b( fun x-> fun y-> x ) ) ( fun x-> fun y-> y ) ) ( fun x-> fun y-> x )
 ```
 
+### `Bundler Code`
+```f#
+#load "../LambdaSharp.fsx"
+open LambdaSharp      
+LambdaSharp.transpileFromFile "./one.ls" "one.target.fsx"
+```
+
 ## License
 
 ### MIT
