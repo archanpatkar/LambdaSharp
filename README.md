@@ -8,9 +8,9 @@
 
 ### L#  /  λSharp provides Pure Functional Programming paradigm 
 
-### It provides `Function Abstractions` from `λ Lambda Calculus`
+#### It provides `Function Abstractions` from `λ Lambda Calculus`
 
-### It is a `Turing Complete Language`
+#### It is a `Turing Complete Language`
 
 
 ## Example
