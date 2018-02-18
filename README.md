@@ -27,5 +27,5 @@
 
 ## License
 
-### MIT License
+### MIT
 #### Copyright (c) 2018 Archan Patkar
