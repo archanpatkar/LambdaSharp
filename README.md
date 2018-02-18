@@ -29,7 +29,7 @@
 ```f#
 #load "../LambdaSharp.fsx"
 open LambdaSharp      
-LambdaSharp.transpileFromFile "./one.ls" "one.target.fsx"
+LambdaSharp.transpileFromFile "./one.lsx" "one.target.fsx"
 ```
 
 ## License
