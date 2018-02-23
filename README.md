@@ -1,5 +1,5 @@
 # L# ( λSharp / LambdaSharp )
-### A Language inspired from λ Lambda Calculus written in F#
+### A Language inspired from λ [Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus) written in F#
 
 ### Which transpiles to F# !
 
