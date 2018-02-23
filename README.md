@@ -8,7 +8,7 @@
 
 #### L# supports Pure Functional paradigm 
 
-#### It provides `Function Abstractions` from `λ Calculus`
+#### It provides `Function Abstractions` from `Lambda Calculus`
 
 #### It is a `Turing Complete Language`
 
