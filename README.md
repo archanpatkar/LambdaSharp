@@ -1,4 +1,3 @@
-#### L# ( λSharp / LambdaSharp )
 # <img src="./lambdasharplogo.png">
 
 ### A Language inspired from λ [Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus) written in F#
