@@ -1,6 +1,6 @@
 # <img src="./lambdasharplogo.png">
 
-### A Language inspired from λ [Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus) written in F#
+### A Language inspired from [Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus) written in F#
 
 ### Which transpiles to F# !
 
