@@ -34,6 +34,7 @@ LambdaSharp.transpileFromFile "./one.lsx" "one.target.fsx"
 ```
 
 ## More on Lambda Calculus
+#### [Introduction](https://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf)
 #### [Church Encoding](https://en.wikipedia.org/wiki/Church_encoding)
 #### [Church Encodings Implementation](https://github.com/archanpatkar/ChurchEncodings)
 
