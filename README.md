@@ -33,6 +33,10 @@ open LambdaSharp
 LambdaSharp.transpileFromFile "./one.lsx" "one.target.fsx"
 ```
 
+## More on Lambda Calculus
+[Church Encoding](https://en.wikipedia.org/wiki/Church_encoding)
+[Church Encodings Implementation](https://github.com/archanpatkar/ChurchEncodings)
+
 ## License
 
 ### MIT
