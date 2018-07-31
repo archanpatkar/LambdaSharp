@@ -11,8 +11,6 @@
 
 #### It provides `Function Abstractions` from `Lambda Calculus`
 
-#### It is a `Turing Complete Language`
-
 
 ## Example
 
